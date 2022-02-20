@@ -4,6 +4,7 @@ coverage
 coverage.json
 typechain
 build
+typechain-types
 
 #Hardhat files
 cache
